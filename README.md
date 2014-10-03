@@ -1,2 +1,2 @@
-welcome-kiosk-tg
+welcome-kiosk-wc
 ================
