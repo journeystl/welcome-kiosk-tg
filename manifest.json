@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
   "name": "Welcome Kiosk | Tower Grove",
-  "short_name": "Welcome-WC",
+  "short_name": "Welcome-TG",
   "description": "Welcome Center app for The Journey Tower Grove",
 
-  "version": "0.0.1.9",
+  "version": "0.0.2.0",
 
   "icons": {
     "16": "assets/img/icon_16.png",
