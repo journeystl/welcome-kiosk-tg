@@ -19,7 +19,8 @@
   "permissions": [
     "webview",
     "clipboardRead",
-    "clipboardWrite"
+    "clipboardWrite",
+    "power"
   ],
   "kiosk_enabled" : true
 }
